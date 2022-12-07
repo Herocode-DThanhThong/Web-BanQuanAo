@@ -1,0 +1,18 @@
+- Quản lí danh mục sản phẩm
+	+ CRUD
+- Quản lí sản phẩm 
+	+ CRUD
+- Quản lí người dùng
+	+ Phân quyền người dùng
+		* Khách hàng
+		* Nhân viên
+		 . Xác nhận đơn hàng 
+		* Người quản lí cao nhất
+		 . CRUD sản phẩm
+             . CRUD trang about
+		 . Xác nhận đơn hàng
+		 . Thêm nhân viên mới
+- Quản lí đặt hàng
+	   + Đặt hàng
+         + Hủy đơn hàng trước khi xác nhận
+         
